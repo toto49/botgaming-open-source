@@ -2,8 +2,8 @@ import discord
 import datetime
 
 
-tokent ="ODA3NTM4NDQ5NTYwNzY0NDQ2.GNPGvp.2wQhGKFXnPd87zH9k0A-v-7mGsfEx-4uf0oea4"
-token = "ODA2MDQ1ODQyNjMxODE5MjY1.GIfS9Y.rVpiiLgFDX40ntpus4lCElu2ARLpVcAeHiZMjI"
+
+token = "votre token"
 x = datetime.datetime.utcnow()
 date_embed = f"Envoyé le {x.day}/{x.month}/{x.year} à {x.hour}:{x.minute}"
 
